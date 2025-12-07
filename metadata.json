@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Learning: Convergence",
+  "description": "An interactive, OLED-optimized learning environment for mastering optimization algorithms. From greedy heuristics to genetic evolution, visualize the mathematics of decision making with real-time feedback.",
+  "requestFramePermissions": []
+}
